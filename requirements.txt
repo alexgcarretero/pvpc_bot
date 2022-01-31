@@ -1,0 +1,4 @@
+requests==2.22.0
+matplotlib==3.5.1
+pyTelegramBotAPI==4.2.2
+taskeduler==1.0.0

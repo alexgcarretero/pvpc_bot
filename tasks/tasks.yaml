@@ -1,0 +1,10 @@
+my_task:
+  repeat:
+    execution_rules:
+      time:
+      - 00:00
+    frequency:
+    - daily
+  script:
+    entrypoint: daily_report
+    file: ./task_manager.py
